@@ -1,0 +1,1 @@
+# resuelve-core-front-public
